@@ -8,3 +8,5 @@ kanaa
 patonki
 suola
 sokeri
+pippuri
+minttu
